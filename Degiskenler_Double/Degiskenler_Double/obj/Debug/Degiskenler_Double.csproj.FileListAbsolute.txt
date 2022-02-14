@@ -1,0 +1,9 @@
+D:\C#\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.exe.config
+D:\C#\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.exe
+D:\C#\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.pdb
+D:\C#\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.Form1.resources
+D:\C#\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.Properties.Resources.resources
+D:\C#\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csproj.GenerateResource.cache
+D:\C#\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csproj.CoreCompileInputs.cache
+D:\C#\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.exe
+D:\C#\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.pdb

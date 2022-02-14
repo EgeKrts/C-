@@ -1,0 +1,10 @@
+C:\Users\sinas\source\repos\FormlarVeriTasima\FormlarVeriTasima\bin\Debug\FormlarVeriTasima.exe.config
+C:\Users\sinas\source\repos\FormlarVeriTasima\FormlarVeriTasima\bin\Debug\FormlarVeriTasima.exe
+C:\Users\sinas\source\repos\FormlarVeriTasima\FormlarVeriTasima\bin\Debug\FormlarVeriTasima.pdb
+C:\Users\sinas\source\repos\FormlarVeriTasima\FormlarVeriTasima\obj\Debug\FormlarVeriTasima.Form1.resources
+C:\Users\sinas\source\repos\FormlarVeriTasima\FormlarVeriTasima\obj\Debug\FormlarVeriTasima.Form2.resources
+C:\Users\sinas\source\repos\FormlarVeriTasima\FormlarVeriTasima\obj\Debug\FormlarVeriTasima.Properties.Resources.resources
+C:\Users\sinas\source\repos\FormlarVeriTasima\FormlarVeriTasima\obj\Debug\FormlarVeriTasima.csproj.GenerateResource.cache
+C:\Users\sinas\source\repos\FormlarVeriTasima\FormlarVeriTasima\obj\Debug\FormlarVeriTasima.csproj.CoreCompileInputs.cache
+C:\Users\sinas\source\repos\FormlarVeriTasima\FormlarVeriTasima\obj\Debug\FormlarVeriTasima.exe
+C:\Users\sinas\source\repos\FormlarVeriTasima\FormlarVeriTasima\obj\Debug\FormlarVeriTasima.pdb

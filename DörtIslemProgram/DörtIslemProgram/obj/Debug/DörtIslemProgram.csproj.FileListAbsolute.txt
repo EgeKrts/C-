@@ -1,0 +1,9 @@
+D:\C#\DörtIslemProgram\DörtIslemProgram\bin\Debug\DörtIslemProgram.exe.config
+D:\C#\DörtIslemProgram\DörtIslemProgram\bin\Debug\DörtIslemProgram.exe
+D:\C#\DörtIslemProgram\DörtIslemProgram\bin\Debug\DörtIslemProgram.pdb
+D:\C#\DörtIslemProgram\DörtIslemProgram\obj\Debug\DörtIslemProgram.Form1.resources
+D:\C#\DörtIslemProgram\DörtIslemProgram\obj\Debug\DörtIslemProgram.Properties.Resources.resources
+D:\C#\DörtIslemProgram\DörtIslemProgram\obj\Debug\DörtIslemProgram.csproj.GenerateResource.cache
+D:\C#\DörtIslemProgram\DörtIslemProgram\obj\Debug\DörtIslemProgram.csproj.CoreCompileInputs.cache
+D:\C#\DörtIslemProgram\DörtIslemProgram\obj\Debug\DörtIslemProgram.exe
+D:\C#\DörtIslemProgram\DörtIslemProgram\obj\Debug\DörtIslemProgram.pdb

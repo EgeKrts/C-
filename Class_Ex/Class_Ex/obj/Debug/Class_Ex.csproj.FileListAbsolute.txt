@@ -1,0 +1,11 @@
+C:\Users\sinas\source\repos\Class_Ex\Class_Ex\bin\Debug\Class_Ex.exe.config
+C:\Users\sinas\source\repos\Class_Ex\Class_Ex\bin\Debug\Class_Ex.exe
+C:\Users\sinas\source\repos\Class_Ex\Class_Ex\bin\Debug\Class_Ex.pdb
+C:\Users\sinas\source\repos\Class_Ex\Class_Ex\obj\Debug\Class_Ex.csproj.AssemblyReference.cache
+C:\Users\sinas\source\repos\Class_Ex\Class_Ex\obj\Debug\Class_Ex.Form1.resources
+C:\Users\sinas\source\repos\Class_Ex\Class_Ex\obj\Debug\Class_Ex.Form2.resources
+C:\Users\sinas\source\repos\Class_Ex\Class_Ex\obj\Debug\Class_Ex.Properties.Resources.resources
+C:\Users\sinas\source\repos\Class_Ex\Class_Ex\obj\Debug\Class_Ex.csproj.GenerateResource.cache
+C:\Users\sinas\source\repos\Class_Ex\Class_Ex\obj\Debug\Class_Ex.csproj.CoreCompileInputs.cache
+C:\Users\sinas\source\repos\Class_Ex\Class_Ex\obj\Debug\Class_Ex.exe
+C:\Users\sinas\source\repos\Class_Ex\Class_Ex\obj\Debug\Class_Ex.pdb

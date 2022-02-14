@@ -1,0 +1,9 @@
+D:\C#\Timer_2\Timer_2\bin\Debug\Timer_2.exe.config
+D:\C#\Timer_2\Timer_2\bin\Debug\Timer_2.exe
+D:\C#\Timer_2\Timer_2\bin\Debug\Timer_2.pdb
+D:\C#\Timer_2\Timer_2\obj\Debug\Timer_2.Form1.resources
+D:\C#\Timer_2\Timer_2\obj\Debug\Timer_2.Properties.Resources.resources
+D:\C#\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.GenerateResource.cache
+D:\C#\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.CoreCompileInputs.cache
+D:\C#\Timer_2\Timer_2\obj\Debug\Timer_2.exe
+D:\C#\Timer_2\Timer_2\obj\Debug\Timer_2.pdb

@@ -1,0 +1,10 @@
+D:\C#\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\C#\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\C#\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\C#\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\C#\Arrays\Arrays\obj\Debug\Arrays.Form1.resources
+D:\C#\Arrays\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+D:\C#\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+D:\C#\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\C#\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\C#\Arrays\Arrays\obj\Debug\Arrays.pdb

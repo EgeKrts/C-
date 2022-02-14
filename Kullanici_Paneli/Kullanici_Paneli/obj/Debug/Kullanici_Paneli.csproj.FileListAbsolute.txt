@@ -1,0 +1,10 @@
+D:\C#\Kullanici_Paneli\Kullanici_Paneli\bin\Debug\Kullanici_Paneli.exe.config
+D:\C#\Kullanici_Paneli\Kullanici_Paneli\bin\Debug\Kullanici_Paneli.exe
+D:\C#\Kullanici_Paneli\Kullanici_Paneli\bin\Debug\Kullanici_Paneli.pdb
+D:\C#\Kullanici_Paneli\Kullanici_Paneli\obj\Debug\Kullanici_Paneli.csproj.AssemblyReference.cache
+D:\C#\Kullanici_Paneli\Kullanici_Paneli\obj\Debug\Kullanici_Paneli.Form1.resources
+D:\C#\Kullanici_Paneli\Kullanici_Paneli\obj\Debug\Kullanici_Paneli.Properties.Resources.resources
+D:\C#\Kullanici_Paneli\Kullanici_Paneli\obj\Debug\Kullanici_Paneli.csproj.GenerateResource.cache
+D:\C#\Kullanici_Paneli\Kullanici_Paneli\obj\Debug\Kullanici_Paneli.csproj.CoreCompileInputs.cache
+D:\C#\Kullanici_Paneli\Kullanici_Paneli\obj\Debug\Kullanici_Paneli.exe
+D:\C#\Kullanici_Paneli\Kullanici_Paneli\obj\Debug\Kullanici_Paneli.pdb

@@ -1,0 +1,10 @@
+D:\C#\DecisionStructures\DecisionStructures\bin\Debug\DecisionStructures.exe.config
+D:\C#\DecisionStructures\DecisionStructures\bin\Debug\DecisionStructures.exe
+D:\C#\DecisionStructures\DecisionStructures\bin\Debug\DecisionStructures.pdb
+D:\C#\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.csproj.AssemblyReference.cache
+D:\C#\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.Form1.resources
+D:\C#\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.Properties.Resources.resources
+D:\C#\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.csproj.GenerateResource.cache
+D:\C#\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.csproj.CoreCompileInputs.cache
+D:\C#\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.exe
+D:\C#\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.pdb

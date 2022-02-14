@@ -1,0 +1,12 @@
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\bin\Debug\Araç_Kullanimlari.exe.config
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\bin\Debug\Araç_Kullanimlari.exe
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\bin\Debug\Araç_Kullanimlari.pdb
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.csproj.AssemblyReference.cache
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.Form1.resources
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.Properties.Resources.resources
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.csproj.GenerateResource.cache
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.csproj.CoreCompileInputs.cache
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.exe
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.pdb
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.Properties.Form2.resources
+D:\C#\Araç_Kullanimlari\Araç_Kullanimlari\obj\Debug\Araç_Kullanimlari.Form3.resources

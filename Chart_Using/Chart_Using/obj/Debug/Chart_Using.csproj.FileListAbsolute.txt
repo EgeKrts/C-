@@ -1,0 +1,10 @@
+D:\C#\Chart_Using\Chart_Using\bin\Debug\Chart_Using.exe.config
+D:\C#\Chart_Using\Chart_Using\bin\Debug\Chart_Using.exe
+D:\C#\Chart_Using\Chart_Using\bin\Debug\Chart_Using.pdb
+D:\C#\Chart_Using\Chart_Using\obj\Debug\Chart_Using.csproj.AssemblyReference.cache
+D:\C#\Chart_Using\Chart_Using\obj\Debug\Chart_Using.Form1.resources
+D:\C#\Chart_Using\Chart_Using\obj\Debug\Chart_Using.Properties.Resources.resources
+D:\C#\Chart_Using\Chart_Using\obj\Debug\Chart_Using.csproj.GenerateResource.cache
+D:\C#\Chart_Using\Chart_Using\obj\Debug\Chart_Using.csproj.CoreCompileInputs.cache
+D:\C#\Chart_Using\Chart_Using\obj\Debug\Chart_Using.exe
+D:\C#\Chart_Using\Chart_Using\obj\Debug\Chart_Using.pdb

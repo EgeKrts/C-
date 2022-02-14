@@ -1,0 +1,16 @@
+D:\C#\MethodInClass\MethodInClass\obj\Debug\net5.0\MethodInClass.csproj.AssemblyReference.cache
+D:\C#\MethodInClass\MethodInClass\obj\Debug\net5.0\MethodInClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MethodInClass\MethodInClass\obj\Debug\net5.0\MethodInClass.AssemblyInfoInputs.cache
+D:\C#\MethodInClass\MethodInClass\obj\Debug\net5.0\MethodInClass.AssemblyInfo.cs
+D:\C#\MethodInClass\MethodInClass\obj\Debug\net5.0\MethodInClass.csproj.CoreCompileInputs.cache
+D:\C#\MethodInClass\MethodInClass\bin\Debug\net5.0\MethodInClass.exe
+D:\C#\MethodInClass\MethodInClass\bin\Debug\net5.0\MethodInClass.deps.json
+D:\C#\MethodInClass\MethodInClass\bin\Debug\net5.0\MethodInClass.runtimeconfig.json
+D:\C#\MethodInClass\MethodInClass\bin\Debug\net5.0\MethodInClass.runtimeconfig.dev.json
+D:\C#\MethodInClass\MethodInClass\bin\Debug\net5.0\MethodInClass.dll
+D:\C#\MethodInClass\MethodInClass\bin\Debug\net5.0\ref\MethodInClass.dll
+D:\C#\MethodInClass\MethodInClass\bin\Debug\net5.0\MethodInClass.pdb
+D:\C#\MethodInClass\MethodInClass\obj\Debug\net5.0\MethodInClass.dll
+D:\C#\MethodInClass\MethodInClass\obj\Debug\net5.0\ref\MethodInClass.dll
+D:\C#\MethodInClass\MethodInClass\obj\Debug\net5.0\MethodInClass.pdb
+D:\C#\MethodInClass\MethodInClass\obj\Debug\net5.0\MethodInClass.genruntimeconfig.cache

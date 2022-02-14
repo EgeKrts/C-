@@ -1,0 +1,10 @@
+D:\C#\RandomProject\RandomProject\bin\Debug\RandomProject.exe.config
+D:\C#\RandomProject\RandomProject\bin\Debug\RandomProject.exe
+D:\C#\RandomProject\RandomProject\bin\Debug\RandomProject.pdb
+D:\C#\RandomProject\RandomProject\obj\Debug\RandomProject.csproj.AssemblyReference.cache
+D:\C#\RandomProject\RandomProject\obj\Debug\RandomProject.Form1.resources
+D:\C#\RandomProject\RandomProject\obj\Debug\RandomProject.Properties.Resources.resources
+D:\C#\RandomProject\RandomProject\obj\Debug\RandomProject.csproj.GenerateResource.cache
+D:\C#\RandomProject\RandomProject\obj\Debug\RandomProject.csproj.CoreCompileInputs.cache
+D:\C#\RandomProject\RandomProject\obj\Debug\RandomProject.exe
+D:\C#\RandomProject\RandomProject\obj\Debug\RandomProject.pdb

@@ -1,0 +1,9 @@
+C:\Users\sinas\source\repos\Return_Metot\Return_Metot\bin\Debug\Return_Metot.exe.config
+C:\Users\sinas\source\repos\Return_Metot\Return_Metot\bin\Debug\Return_Metot.exe
+C:\Users\sinas\source\repos\Return_Metot\Return_Metot\bin\Debug\Return_Metot.pdb
+C:\Users\sinas\source\repos\Return_Metot\Return_Metot\obj\Debug\Return_Metot.Form1.resources
+C:\Users\sinas\source\repos\Return_Metot\Return_Metot\obj\Debug\Return_Metot.Properties.Resources.resources
+C:\Users\sinas\source\repos\Return_Metot\Return_Metot\obj\Debug\Return_Metot.csproj.GenerateResource.cache
+C:\Users\sinas\source\repos\Return_Metot\Return_Metot\obj\Debug\Return_Metot.csproj.CoreCompileInputs.cache
+C:\Users\sinas\source\repos\Return_Metot\Return_Metot\obj\Debug\Return_Metot.exe
+C:\Users\sinas\source\repos\Return_Metot\Return_Metot\obj\Debug\Return_Metot.pdb

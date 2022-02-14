@@ -1,0 +1,9 @@
+D:\C#\MetinBelgesi\MetinBelgesi\bin\Debug\MetinBelgesi.exe.config
+D:\C#\MetinBelgesi\MetinBelgesi\bin\Debug\MetinBelgesi.exe
+D:\C#\MetinBelgesi\MetinBelgesi\bin\Debug\MetinBelgesi.pdb
+D:\C#\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.Form1.resources
+D:\C#\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.Properties.Resources.resources
+D:\C#\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.csproj.GenerateResource.cache
+D:\C#\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.csproj.CoreCompileInputs.cache
+D:\C#\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.exe
+D:\C#\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.pdb

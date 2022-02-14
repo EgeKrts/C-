@@ -1,0 +1,10 @@
+D:\C#\MathFunction\MathFunction\bin\Debug\MathFunction.exe.config
+D:\C#\MathFunction\MathFunction\bin\Debug\MathFunction.exe
+D:\C#\MathFunction\MathFunction\bin\Debug\MathFunction.pdb
+D:\C#\MathFunction\MathFunction\obj\Debug\MathFunction.csproj.AssemblyReference.cache
+D:\C#\MathFunction\MathFunction\obj\Debug\MathFunction.Form1.resources
+D:\C#\MathFunction\MathFunction\obj\Debug\MathFunction.Properties.Resources.resources
+D:\C#\MathFunction\MathFunction\obj\Debug\MathFunction.csproj.GenerateResource.cache
+D:\C#\MathFunction\MathFunction\obj\Debug\MathFunction.csproj.CoreCompileInputs.cache
+D:\C#\MathFunction\MathFunction\obj\Debug\MathFunction.exe
+D:\C#\MathFunction\MathFunction\obj\Debug\MathFunction.pdb

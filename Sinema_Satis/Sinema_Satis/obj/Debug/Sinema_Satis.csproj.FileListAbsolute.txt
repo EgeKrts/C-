@@ -1,0 +1,10 @@
+D:\C#\Sinema_Satis\Sinema_Satis\bin\Debug\Sinema_Satis.exe.config
+D:\C#\Sinema_Satis\Sinema_Satis\bin\Debug\Sinema_Satis.exe
+D:\C#\Sinema_Satis\Sinema_Satis\bin\Debug\Sinema_Satis.pdb
+D:\C#\Sinema_Satis\Sinema_Satis\obj\Debug\Sinema_Satis.csproj.AssemblyReference.cache
+D:\C#\Sinema_Satis\Sinema_Satis\obj\Debug\Sinema_Satis.Form1.resources
+D:\C#\Sinema_Satis\Sinema_Satis\obj\Debug\Sinema_Satis.Properties.Resources.resources
+D:\C#\Sinema_Satis\Sinema_Satis\obj\Debug\Sinema_Satis.csproj.GenerateResource.cache
+D:\C#\Sinema_Satis\Sinema_Satis\obj\Debug\Sinema_Satis.csproj.CoreCompileInputs.cache
+D:\C#\Sinema_Satis\Sinema_Satis\obj\Debug\Sinema_Satis.exe
+D:\C#\Sinema_Satis\Sinema_Satis\obj\Debug\Sinema_Satis.pdb

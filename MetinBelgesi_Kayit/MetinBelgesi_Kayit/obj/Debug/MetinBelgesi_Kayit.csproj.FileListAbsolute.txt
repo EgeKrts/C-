@@ -1,0 +1,9 @@
+D:\C#\MetinBelgesi_Kayit\MetinBelgesi_Kayit\bin\Debug\MetinBelgesi_Kayit.exe.config
+D:\C#\MetinBelgesi_Kayit\MetinBelgesi_Kayit\bin\Debug\MetinBelgesi_Kayit.exe
+D:\C#\MetinBelgesi_Kayit\MetinBelgesi_Kayit\bin\Debug\MetinBelgesi_Kayit.pdb
+D:\C#\MetinBelgesi_Kayit\MetinBelgesi_Kayit\obj\Debug\MetinBelgesi_Kayit.Form1.resources
+D:\C#\MetinBelgesi_Kayit\MetinBelgesi_Kayit\obj\Debug\MetinBelgesi_Kayit.Properties.Resources.resources
+D:\C#\MetinBelgesi_Kayit\MetinBelgesi_Kayit\obj\Debug\MetinBelgesi_Kayit.csproj.GenerateResource.cache
+D:\C#\MetinBelgesi_Kayit\MetinBelgesi_Kayit\obj\Debug\MetinBelgesi_Kayit.csproj.CoreCompileInputs.cache
+D:\C#\MetinBelgesi_Kayit\MetinBelgesi_Kayit\obj\Debug\MetinBelgesi_Kayit.exe
+D:\C#\MetinBelgesi_Kayit\MetinBelgesi_Kayit\obj\Debug\MetinBelgesi_Kayit.pdb

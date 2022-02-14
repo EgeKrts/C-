@@ -1,0 +1,10 @@
+D:\C#\Loops\Loops\bin\Debug\Loops.exe.config
+D:\C#\Loops\Loops\bin\Debug\Loops.exe
+D:\C#\Loops\Loops\bin\Debug\Loops.pdb
+D:\C#\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+D:\C#\Loops\Loops\obj\Debug\Loops.Form1.resources
+D:\C#\Loops\Loops\obj\Debug\Loops.Properties.Resources.resources
+D:\C#\Loops\Loops\obj\Debug\Loops.csproj.GenerateResource.cache
+D:\C#\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+D:\C#\Loops\Loops\obj\Debug\Loops.exe
+D:\C#\Loops\Loops\obj\Debug\Loops.pdb

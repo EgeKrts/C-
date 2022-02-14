@@ -1,0 +1,10 @@
+D:\C#\Ucus_Rezervasyon\Ucus_Rezervasyon\bin\Debug\Ucus_Rezervasyon.exe.config
+D:\C#\Ucus_Rezervasyon\Ucus_Rezervasyon\bin\Debug\Ucus_Rezervasyon.exe
+D:\C#\Ucus_Rezervasyon\Ucus_Rezervasyon\bin\Debug\Ucus_Rezervasyon.pdb
+D:\C#\Ucus_Rezervasyon\Ucus_Rezervasyon\obj\Debug\Ucus_Rezervasyon.csproj.AssemblyReference.cache
+D:\C#\Ucus_Rezervasyon\Ucus_Rezervasyon\obj\Debug\Ucus_Rezervasyon.Form1.resources
+D:\C#\Ucus_Rezervasyon\Ucus_Rezervasyon\obj\Debug\Ucus_Rezervasyon.Properties.Resources.resources
+D:\C#\Ucus_Rezervasyon\Ucus_Rezervasyon\obj\Debug\Ucus_Rezervasyon.csproj.GenerateResource.cache
+D:\C#\Ucus_Rezervasyon\Ucus_Rezervasyon\obj\Debug\Ucus_Rezervasyon.csproj.CoreCompileInputs.cache
+D:\C#\Ucus_Rezervasyon\Ucus_Rezervasyon\obj\Debug\Ucus_Rezervasyon.exe
+D:\C#\Ucus_Rezervasyon\Ucus_Rezervasyon\obj\Debug\Ucus_Rezervasyon.pdb

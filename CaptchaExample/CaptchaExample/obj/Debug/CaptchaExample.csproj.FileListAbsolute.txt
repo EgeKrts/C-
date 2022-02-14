@@ -1,0 +1,11 @@
+D:\C#\CaptchaExample\CaptchaExample\bin\Debug\CaptchaExample.exe.config
+D:\C#\CaptchaExample\CaptchaExample\bin\Debug\CaptchaExample.exe
+D:\C#\CaptchaExample\CaptchaExample\bin\Debug\CaptchaExample.pdb
+D:\C#\CaptchaExample\CaptchaExample\obj\Debug\CaptchaExample.Form1.resources
+D:\C#\CaptchaExample\CaptchaExample\obj\Debug\CaptchaExample.Properties.Resources.resources
+D:\C#\CaptchaExample\CaptchaExample\obj\Debug\CaptchaExample.csproj.GenerateResource.cache
+D:\C#\CaptchaExample\CaptchaExample\obj\Debug\CaptchaExample.csproj.CoreCompileInputs.cache
+D:\C#\CaptchaExample\CaptchaExample\obj\Debug\CaptchaExample.exe
+D:\C#\CaptchaExample\CaptchaExample\obj\Debug\CaptchaExample.pdb
+D:\C#\CaptchaExample\CaptchaExample\obj\Debug\CaptchaExample.csproj.AssemblyReference.cache
+D:\C#\CaptchaExample\CaptchaExample\obj\Debug\CaptchaExample.Form2.resources
